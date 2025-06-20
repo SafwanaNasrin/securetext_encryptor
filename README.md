@@ -64,7 +64,7 @@ pip install pycryptodome
 
     Clone the repository:
 
-git clone https://github.com/yourusername/securetext_encryptor.git
+git clone https://github.com/SafwanaNasrin/securetext_encryptor.git
 cd securetext_encryptor
 
     Run the tool:
@@ -82,7 +82,7 @@ RSA	Asymmetric	2048-bit keys	Secure key exchange, emails
 
 Safwana Nasrin
 Cybersecurity Enthusiast | Python Developer
-📫 LinkedIn (Replace with your actual link)
+📫 LinkedIn (https://www.linkedin.com/in/SafwanaNasrin
 🎓 B.Sc. in Computer Science | Passionate about data security
 📜 License
 
